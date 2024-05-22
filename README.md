@@ -1,10 +1,10 @@
 Pour exécuter le programme, il faut un service Linux ou Mac et le lancer dans un environnement virtuel.
 Les fichiers de sauvegarde seront générés dans le dossier où se situe le fichier du programme. Essayez d'isoler ce fichier dans un dossier seul.
 
-apt install python3
-apt install mysql-server
-pip install mysql-connector-python
-apt install python3.10-venv
+- apt install python3
+- apt install mysql-server
+- pip install mysql-connector-python
+- apt install python3.10-venv
 
 Dirigez vous vers le dossier où est le fichier du programme
 python3 -m venv venv
